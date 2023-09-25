@@ -1,7 +1,7 @@
 # AcademicMomentum
 Grade Prediction using Machine Learning. Ctrl-Hacks 2023 Submission EVAN LI
 
-**PITCH PRESENTATION:** 
+**PITCH PRESENTATION:** https://youtu.be/uJr6VyZ8bP8
 
 **DEMO VIDEO:** https://www.youtube.com/watch?v=UEhWpFkRO6s
 
@@ -13,7 +13,7 @@ TO VIEW RESULTS:
 Press ENTER DATA button once student information is finalized, then **close the window**. A percentage window will appear. Follow onscreen instructions and contact me below if help is needed.
 
 # NOTE
-Due to differing environmental variables or other factors, accuracy of the model displayed may change between executions of the program. This is not a bug, it is due to how your system commences running of the program or the calculation models performed by the accuracy function. If this occurs, please exit the application and run the program again until correct accuracy is achieved.
+Due to differing environmental variables or other factors, accuracy of the model displayed may change between executions of the program. This is not a bug, it is due to how your system commences running of the program or the calculation models performed by the accuracy function. If this occurs, please exit the application and run the program again and correct accuracy should be achieved.
 
 # Questions/Other Comments
 Please send me an email at **eavnil8@gmail.com** or **bigli8123@gmail.com**
