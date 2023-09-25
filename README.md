@@ -14,3 +14,5 @@ Please send me an email at **eavnil8@gmail.com** or **bigli8123@gmail.com**
 Student Grade Dataset by Paulo Cortez (https://archive.ics.uci.edu/dataset/320/student+performance)
 
 Cortez,Paulo. (2014). Student Performance. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.
+
+Machine Learning Model implemented: Random Forest Regression (SciKit Learn python library)
