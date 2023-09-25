@@ -1,7 +1,7 @@
 # AcademicMomentum
 Grade Prediction using Machine Learning. Ctrl-Hacks 2023 Submission EVAN LI
 
-**PITCH PRESENTATION:** https://docs.google.com/presentation/d/1M35bkFi8LAOM97eHrun5cI-4TkRGxunNoWZ6V3inugA/edit?usp=sharing
+**PITCH PRESENTATION:** 
 
 **DEMO VIDEO:** https://www.youtube.com/watch?v=UEhWpFkRO6s
 
